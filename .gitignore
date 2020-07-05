@@ -3,3 +3,4 @@ Cargo.lock
 tests/tmp.rs
 .vscode
 .vs
+native-windows-docs
